@@ -1,0 +1,10 @@
+/* it is for card */
+
+.card-zoom {
+    transition: transform 0.2s; /* Define the transition duration */
+  }
+  
+  .card-zoom:hover {
+    transform: scale(1.05); /* Increase the scale on hover for a zoom effect */
+  }
+  
