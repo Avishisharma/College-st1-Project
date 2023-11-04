@@ -8,7 +8,7 @@ import Service from './Service';
 import Contact from './Contact';
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import CartPage from './CartPage'; // Import your CartPage component
+import CartPage from './CartPage'; // Import your CartPage components
 import { CartProvider } from './CartContext'; 
 import { Switch, Route, Redirect } from 'react-router-dom';
 
